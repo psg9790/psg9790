@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **psg9790/psg9790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
