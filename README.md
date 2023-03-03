@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psg9790)](https://solved.ac/psg9790/)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/psg9790.svg)](https://codeforces.com/profile/psg9790)
+[![AtCoder](https://badges.joonhyung.xyz/atcoder/psg9790.svg)](https://atcoder.jp/users/psg9790)
