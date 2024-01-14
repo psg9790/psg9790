@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=SaeGyeolPark&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)  
 
 <div align="center">
-Welcome to my Github!!! 👋
-</div>
+Welcome to my Github!!! 👋  
+</div> 
+</br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psg9790)](https://solved.ac/psg9790/)  
 </br>
